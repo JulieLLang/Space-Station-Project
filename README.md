@@ -1,2 +1,2 @@
 # Space-Station-Project
-Created using HTML, CSS and JS.
+This project was created using HTML, CSS and JS.  Book a flight now!
